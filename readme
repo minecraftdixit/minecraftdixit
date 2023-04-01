@@ -1,49 +1,60 @@
-My Development Toolbox
- 
+# My Development Toolbox
+
 This is a list of programming languages, tools, and libraries that I'm familiar with and use in my work as a hardware design engineer.
 
-Programming Languages
-C++
-C
-Python
-ARM Assembly
-HDL Languages
-Verilog HDL
-Basics of System Verilog
-Scripting Languages
-Tcl
-Perl
-Operating Systems
-Ubuntu
-CentOS
-Windows
-Layout Editor
-LTspice
-Tools
-Xilinx ISE
-Xilinx Vivado
-Quartus Prime
-Mentor Graphics ModelSim
-Arduino
-Git
-Open Source Tools
-Yosys
-GTKWave
-Boards
-Pynq Z2
-Xilinx ZCU 104
-STM32F4DISCOVERY
-Arduino MEGA and UNO
-Deep Learning Libraries
-TensorFlow
-NumPy
-Pandas
-Matplotlib
+## Programming Languages
+
+- C++
+- C
+- Python
+- ARM Assembly
+
+## HDL Languages
+
+- Verilog HDL
+- Basics of System Verilog
+
+## Scripting Languages
+
+- Tcl
+- Perl
+
+## Operating Systems
+
+- Ubuntu
+- CentOS
+- Windows
+
+## Layout Editor
+
+- LTspice
+
+## Tools
+
+- Xilinx ISE
+- Xilinx Vivado
+- Quartus Prime
+- Mentor Graphics ModelSim
+- Arduino
+- Git
+
+## Open Source Tools
+
+- Yosys
+- GTKWave
+
+## Boards
+
+- Pynq Z2
+- Xilinx ZCU 104
+- STM32F4DISCOVERY
+- Arduino MEGA and UNO
+
+## Deep Learning Libraries
+
+- TensorFlow
+- NumPy
+- Pandas
+- Matplotlib
+
 This is not an exhaustive list, and I'm always learning and exploring new tools and technologies. If you have any suggestions or recommendations, feel free to reach out and let me know!
-
- 
-Happy Coding!
-
-
-
-
