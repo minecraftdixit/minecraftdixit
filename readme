@@ -1,3 +1,44 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Development Toolbox</title>
+  <style>
+  <style>
+table {
+  border-collapse: collapse;
+  margin-bottom: 20px;
+  width: 100%;
+}
+th, td {
+  padding: 8px;
+  text-align: left;
+  border: 1px solid #ddd;
+}
+th {
+  background-color: #f2f2f2;
+}
+</style>
+
+    /* Add the CSS styles here */
+  </style>
+</head>
+<body>
+  <!-- Add the table here -->
+
+
+
+
+
+
+
+
+
+
+
+
 <h2>Development Toolbox 🔧</h2>
 
 <p>This is a list of programming languages, tools, and libraries I use in my work as a hardware design engineer.</p>
@@ -44,3 +85,5 @@
     </tr>
   </tbody>
 </table>
+</body>
+</html>
