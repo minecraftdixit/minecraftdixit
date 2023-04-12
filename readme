@@ -1,14 +1,46 @@
-# Development Toolbox 🔧
+<h2>Development Toolbox 🔧</h2>
 
-This is a list of programming languages, tools, and libraries I use in my work as a hardware design engineer.
+<p>This is a list of programming languages, tools, and libraries I use in my work as a hardware design engineer.</p>
 
-| Category | Tool/Library |
-| -------- | ------------ |
-| Programming Languages | C++, C, Python, ARM Assembly |
-| HDL Languages | Verilog HDL, System Verilog |
-| Scripting Languages | Tcl, Perl |
-| Operating Systems | Ubuntu, CentOS, Windows |
-| Tools | Xilinx ISE, Xilinx Vivado, Quartus Prime, ModelSim, Arduino, Git |
-| Open Source Tools | Yosys, GTKWave |
-| Boards | Pynq Z2, Xilinx ZCU 104, STM32F4DISCOVERY, Arduino MEGA and UNO |
-| Deep Learning Libraries | TensorFlow, NumPy, Pandas, Matplotlib |
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Tool/Library</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Programming Languages</td>
+      <td>C++, C, Python, ARM Assembly</td>
+    </tr>
+    <tr>
+      <td>HDL Languages</td>
+      <td>Verilog HDL, System Verilog</td>
+    </tr>
+    <tr>
+      <td>Scripting Languages</td>
+      <td>Tcl, Perl</td>
+    </tr>
+    <tr>
+      <td>Operating Systems</td>
+      <td>Ubuntu, CentOS, Windows</td>
+    </tr>
+    <tr>
+      <td>Tools</td>
+      <td>Xilinx ISE, Xilinx Vivado, Quartus Prime, ModelSim, Arduino, Git</td>
+    </tr>
+    <tr>
+      <td>Open Source Tools</td>
+      <td>Yosys, GTKWave</td>
+    </tr>
+    <tr>
+      <td>Boards</td>
+      <td>Pynq Z2, Xilinx ZCU 104, STM32F4DISCOVERY, Arduino MEGA and UNO</td>
+    </tr>
+    <tr>
+      <td>Deep Learning Libraries</td>
+      <td>TensorFlow, NumPy, Pandas, Matplotlib</td>
+    </tr>
+  </tbody>
+</table>
