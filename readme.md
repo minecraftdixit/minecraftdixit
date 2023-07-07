@@ -14,6 +14,8 @@ This is a list of programming languages, tools, and libraries I use in my work a
 | FPGA Boards and microcontrollers | Pynq Z2, Xilinx ZCU 104, STM32F4DISCOVERY, Arduino MEGA and UNO |
 | Deep Learning Libraries | TensorFlow, NumPy, Pandas, Matplotlib |
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minecraftdixit&layout=compact&langs_count=4)]()
+
 
 This is not an exhaustive list, and I'm always learning and exploring new tools and technologies. :nerd_face: Feel free to reach out with suggestions or recommendations! :wave:
 
