@@ -5,7 +5,7 @@ This is a list of programming languages, tools, and libraries I use in my work a
 | Category | Tool/Library |
 | ------| ----- |
 | Programming Languages | `C++`, C, Python, ARM Assembly |
-| HDL Languages | Verilog HDL, System Verilog |
+| HDL Languages | Verilog HDL, System Verilog![systemverilog](https://img.shields.io/badge/-SystemVerilog-CAD09D.svg) |
 | Web development  | HTML, CSS, Javascript |
 | Scripting Languages | Tcl, Perl |
 | Operating Systems | Ubuntu, CentOS, Windows |
