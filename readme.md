@@ -1,8 +1,7 @@
 ## Development Toolbox 🔧
 
-# ![fpga_meme1](https://github.com/minecraftdixit/minecraftdixit/assets/63745645/2ac72151-be6e-490c-990e-77177714a556)
-<img src="https://github.com/minecraftdixit/minecraftdixit/blob/main/assets/63745645/2ac72151-be6e-490c-990e-77177714a556" alt="FPGA Meme" width="400" height="300">
-
+ ![fpga_meme1](https://github.com/minecraftdixit/minecraftdixit/assets/63745645/2ac72151-be6e-490c-990e-77177714a556){:width="400px"}
+ 
 This is a list of programming languages, tools, and libraries I use in my work as a hardware design engineer.
 
 | Category | Tool/Library |
