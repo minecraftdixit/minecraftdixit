@@ -1,10 +1,10 @@
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%587E&size=30&center=true&vCenter=true&width=450&lines=I'm+Ayush+Dixit;Hardware;" alt="Ayush Dixit"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%587E&size=30&center=true&vCenter=true&width=450&lines=I'm+Ayush+Dixit;Hardware+Enthusiast;" alt="Ayush Dixit"></a>
 </div>
 
- 
+ <div align="center">
  <img src="https://github.com/minecraftdixit/minecraftdixit/blob/8b27e576f2ae494a4871e8cae07635ce04a86e33/assets/fpga_meme1.png" alt="Welcome to my profile" width="400">
-
+</div>
 This is a list of programming languages, tools, and libraries I use in my work as a hardware design engineer.
 
 | Category | Tool/Library |
